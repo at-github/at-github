@@ -6,4 +6,4 @@ Ma constante, toutes technologies confondues : le service rendu à l'utilisateur
 - Veille centrée sur les besoins, pas sur les tendances
 - Passionné d'écologie : permaculture, réemploi, habitat solaire… → 🌱 [brindepaille.org](https://brindepaille.org)
 
-📄 [Mon CV](http://tarikamar.fr/cv) · ✍️ [Mon blog (un peu tech)](http://tarikamar.fr/blog)
+📄 [Mon CV](https://tarikamar.fr/cv) · ✍️ [Mon blog (un peu tech)](https://tarikamar.fr/blog)
